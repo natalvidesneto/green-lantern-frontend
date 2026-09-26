@@ -82,7 +82,7 @@ npm install
 4. **Configure a variável de ambiente:**
 Crie um arquivo `.env` na raiz da pasta `frontend` e defina a URL da API:
 ```env
-VITE_API_URL=[https://green-lantern-api.onrender.com/lanternas-verdes](https://green-lantern-api.onrender.com/lanternas-verdes)
+VITE_API_URL=https://green-lantern-api.onrender.com/lanternas-verdes
 
 ```
 
